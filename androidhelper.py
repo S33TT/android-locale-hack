@@ -1,4 +1,4 @@
-#-------------------------------------------------------------------------------
+#----------------------------------------------------------------------
 # Name:         androidhelper.py
 #
 # Purpose:      To simplify Python-for-Android SL4A development in IDEs with a
